@@ -14,8 +14,7 @@ Curso de Platzi 🧡
 - Crear Funciones.
 - Conexión HTML con Js.
 
-## Taller #3: Promedios, mediana y  moda.
+## Taller #4: Salarios y media del top 10%
 - Definir fórmulas.
 - Implementar las fórmulas en Js.
 - Crear Funciones.
-- Conexión o integración de HTML con Js.
